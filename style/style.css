@@ -1,0 +1,70 @@
+
+html, body {
+  height: 100vh;
+  margin:0;
+  padding: 0;
+  height: 100%;
+  background-image: url(../assets/images/bgsky3.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  color: rgb(131, 126, 148);
+  text-align: center;
+  font-size: 300%;
+  text-transform: uppercase;
+}
+
+.text2 {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  color: rgb(184, 199, 250);
+  text-align: center;
+  font-size: 300%;
+  text-transform: uppercase;
+}
+
+.planet1 {
+  position: absolute;
+  top: 80%;
+  left: 40%;
+  width: 80px;
+}
+
+
+.planet2 {
+  position: absolute;
+  right: 15%;
+  top: 20%;
+  width: 150px;
+}
+
+
+.reactbig {
+  position: absolute;
+  top: 100%;
+  left: 10%;
+  width: 200px;
+}
+
+.bgplanet {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 100%;
+  width: 100%;
+}
+
+.planet3 {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  width: 50px;
+}
+
